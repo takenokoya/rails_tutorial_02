@@ -1,0 +1,15 @@
+current directory: /Users/owner/rails_tutorial/tutorial02/vendor/bundle/ruby/2.5.0/gems/bindex-0.6.0/ext/skiptrace
+/Users/owner/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20190405-76165-7f211b.rb extconf.rb
+creating Makefile
+
+current directory: /Users/owner/rails_tutorial/tutorial02/vendor/bundle/ruby/2.5.0/gems/bindex-0.6.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/owner/rails_tutorial/tutorial02/vendor/bundle/ruby/2.5.0/gems/bindex-0.6.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/owner/rails_tutorial/tutorial02/vendor/bundle/ruby/2.5.0/gems/bindex-0.6.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190405-76165-ermwre/skiptrace
